@@ -10,6 +10,7 @@ I work on billing, premiums, payments and general ledger accounting in Node.js, 
 - Trained about 23 developers in person in Ecuador and the Philippines, and review code for the offshore teams
 
 **Doctors Lounge** · Founder & Engineer (2024 – present)
+
 A secure messaging platform for physicians (pre-launch).
 - TypeScript React Native app (iOS/Android), Next.js admin portal and Node.js/Express API
 - Real-time direct and group messaging on Socket.io, built to scale across servers with Redis
